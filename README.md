@@ -31,7 +31,7 @@
    
 4. xls file
     
-    ![image](Screenshot%20(43).png)
+    ![image](xls_.png)
 
 
 
