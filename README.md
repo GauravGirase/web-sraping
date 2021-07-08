@@ -15,6 +15,12 @@
         ```
         $ pip install -r requirements.txt
         ```
+     * Set your login credentials in constant.py
+        ```
+        $ username = '<username>
+        $ password = '<password>
+        ```
+
 2. Run project
      ```
         $ python main.py
