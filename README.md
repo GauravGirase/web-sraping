@@ -25,6 +25,14 @@
      ```
         $ python main.py
     ```
+3. xls file added in our root project folder
+   
+    ![image](dir.jpg)
+   
+4. xls file
+    
+    ![image](Screenshot%20(43).png)
+
 
 
 

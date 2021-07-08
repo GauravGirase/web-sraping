@@ -1,5 +1,5 @@
-email = "example@gmail.com"
-password = "************"
+email = "gaurav.girase111@gmail.com"
+password = "django123456"
 url = "https://demo.userfrosting.com/account/sign-in"
 
 

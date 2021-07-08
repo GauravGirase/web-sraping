@@ -60,7 +60,7 @@ async def main():
                   return {
                       name: document.getElementsByClassName('box-body box-profile')[0].querySelector('h3').innerText,
                       email: document.getElementsByClassName('box-body box-profile')[0].querySelector('span').innerText,
-                      lacale: document.getElementsByClassName('box-body box-profile')[0].querySelectorAll('p')[1].innerText,
+                      locale: document.getElementsByClassName('box-body box-profile')[0].querySelectorAll('p')[1].innerText,
                       roles: document.getElementsByClassName('box-body box-profile')[0].querySelectorAll('p')[2].innerText
                   }
               }''')
