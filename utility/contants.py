@@ -1,5 +1,5 @@
-email = "gaurav.girase111@gmail.com"
-password = "django123456"
+email = "username"
+password = "password"
 url = "https://demo.userfrosting.com/account/sign-in"
 
 
