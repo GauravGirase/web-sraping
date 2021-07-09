@@ -2,7 +2,7 @@ import asyncio
 from pyppeteer import launch
 
 from utility import contants
-from utility.utility import populate_data_in_csv_file, loading
+from utility.utility import populate_data_in_xls_file, loading
 from utility.contants import LOADING_MSG
 
 
