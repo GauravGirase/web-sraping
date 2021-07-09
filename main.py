@@ -68,9 +68,9 @@ async def main():
         data.append(user_details)
         await page.goBack()
 
-    # Data that we extracted from above one, is going to populate in csv file for local usage
+    # Data that we extracted from above one, is going to populate in xls file for local usage
 
-    populate_data_in_csv_file(data)
+    populate_data_in_xls_file(data)
 
     await browser.close()
 

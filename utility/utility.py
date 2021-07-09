@@ -2,7 +2,7 @@ import time
 import xlsxwriter
 
 
-def populate_data_in_csv_file(data):
+def populate_data_in_xls_file(data):
     workbook = xlsxwriter.Workbook("users.xlsx")
     worksheet = workbook.add_worksheet("users")
 
